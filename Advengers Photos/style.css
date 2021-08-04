@@ -1,0 +1,98 @@
+#Avengers {
+	height: 200px;
+	width: 400px;
+}
+
+body {
+	text-align: center;
+}
+
+#tanos {
+	height: 168px;
+	width: 300p;
+}
+
+#natasha {
+	height: 168px;
+	width: 300p;
+}
+
+#spiderman {
+	height: 168px;
+	width: 300p;
+}
+
+#iron-man {
+	height: 168px;
+	width: 300p;
+}
+
+#Thor {
+	height: 168px;
+	width: 300p;
+}
+
+hr {
+	border-style: none;
+}
+
+#Cap {
+	height: 168px;
+	width: 300p;
+}
+
+#Carol {
+	height: 168px;
+	width: 300p;
+}
+
+#black-panther {
+	height: 168px;
+	width: 300p;
+}
+
+#strange {
+	height: 168px;
+	width: 300p;
+}
+
+#wanda {
+	height: 168px;
+	width: 300p;
+}
+
+#bucky {
+	height: 168px;
+	width: 300p;
+}
+
+img {
+	padding: 2px;
+
+}
+
+#myCarousel {
+	background-color: red;
+}
+
+#myCarousel img {
+	height: 300px;
+	margin-top: 35px;
+}
+
+.carousel-inner p {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	color: white;
+	font-size: 20px;
+}
+
+#myCarouse2 {
+	width: 100%;
+	background-color: #b5d0d4;
+}
+
+#myCarouse2 img {
+	height: 300px;
+	margin-top: 35px;
+}
